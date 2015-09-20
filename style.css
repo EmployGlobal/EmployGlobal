@@ -1068,110 +1068,110 @@ hr,
 
 @font-face {
 	font-family: 'LatoHairline';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Hai-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Hai-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Hai-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Hai-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Hai-Webfont.svg#LatoHairline') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Hai-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Hai-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Hai-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Hai-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Hai-Webfont.svg#LatoHairline') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoHairlineItalic';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-HaiIta-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-HaiIta-Webfont.eot?#iefix') format('embedded-opentype'),
-	url('http://www.nintendo.com/asset/font/lato/Lato-HaiIta-Webfont.woff') format('woff'),
-	url('http://www.nintendo.com/asset/font/lato/Lato-HaiIta-Webfont.ttf') format('truetype'),
-	url('http://www.nintendo.com/asset/font/lato/Lato-HaiIta-Webfont.svg#LatoHairlineItalic') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-HaiIta-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-HaiIta-Webfont.eot?#iefix') format('embedded-opentype'),
+	url('http://www.ocnjmuseum.org/lato-fontface/Lato-HaiIta-Webfont.woff') format('woff'),
+	url('http://www.ocnjmuseum.org/lato-fontface/Lato-HaiIta-Webfont.ttf') format('truetype'),
+	url('http://www.ocnjmuseum.org/lato-fontface/Lato-HaiIta-Webfont.svg#LatoHairlineItalic') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoLight';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Lig-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Lig-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Lig-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Lig-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Lig-Webfont.svg#LatoLight') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Lig-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Lig-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Lig-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Lig-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Lig-Webfont.svg#LatoLight') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoLightItalic';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-LigIta-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-LigIta-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-LigIta-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-LigIta-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-LigIta-Webfont.svg#LatoLightItalic') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-LigIta-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-LigIta-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-LigIta-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-LigIta-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-LigIta-Webfont.svg#LatoLightItalic') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoRegular';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Reg-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Reg-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Reg-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Reg-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Reg-Webfont.svg#LatoRegular') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Reg-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Reg-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Reg-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Reg-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Reg-Webfont.svg#LatoRegular') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoItalic';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-RegIta-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-RegIta-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-RegIta-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-RegIta-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-RegIta-Webfont.svg#LatoItalic') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-RegIta-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-RegIta-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-RegIta-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-RegIta-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-RegIta-Webfont.svg#LatoItalic') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoBold';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Bol-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Bol-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Bol-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Bol-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Bol-Webfont.svg#LatoBold') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bol-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bol-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bol-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bol-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bol-Webfont.svg#LatoBold') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoBoldItalic';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-BolIta-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-BolIta-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-BolIta-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-BolIta-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-BolIta-Webfont.svg#LatoBoldItalic') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-BolIta-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-BolIta-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-BolIta-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-BolIta-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-BolIta-Webfont.svg#LatoBoldItalic') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoBlack';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Bla-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-Bla-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Bla-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Bla-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-Bla-Webfont.svg#LatoBlack') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bla-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bla-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bla-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bla-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-Bla-Webfont.svg#LatoBlack') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'LatoBlackItalic';
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-BlaIta-Webfont.eot');
-	src: url('http://www.nintendo.com/asset/font/lato/Lato-BlaIta-Webfont.eot?#iefix') format('embedded-opentype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-BlaIta-Webfont.woff') format('woff'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-BlaIta-Webfont.ttf') format('truetype'),
-		url('http://www.nintendo.com/asset/font/lato/Lato-BlaIta-Webfont.svg#LatoBlackItalic') format('svg');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-BlaIta-Webfont.eot');
+	src: url('http://www.ocnjmuseum.org/lato-fontface/Lato-BlaIta-Webfont.eot?#iefix') format('embedded-opentype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-BlaIta-Webfont.woff') format('woff'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-BlaIta-Webfont.ttf') format('truetype'),
+		url('http://www.ocnjmuseum.org/lato-fontface/Lato-BlaIta-Webfont.svg#LatoBlackItalic') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
