@@ -1128,28 +1128,28 @@ h5, .h5 {
 /* --- Desktop Body Fonts --- */
 body, .b1 {
 	color: #777;
-	font-family: 'LatoRegular';
+	font-family: 'Lato'; font-weight: 400;
 	font-size: 16px;
 }
 .b2 {
 	color: #999;
-	font-family: 'LatoBold';
+	font-family: 'Lato'; font-weight: 700; 
 	font-size: 16px;
 }
 .b3 {
 	color: #777;
-	font-family: 'LatoBold';
+	font-family: 'Lato'; font-weight: 700; 
 	font-size: 20px;
 	margin: 0 0 10px;
 }
 .b4 {
 	color: #999;
-	font-family: 'LatoRegular';
+	font-family: 'Lato'; font-weight: 400;
 	font-size: 14px;
 }
 .b5 {
 	color: #777;
-	font-family: 'LatoRegular';
+	font-family: 'Lato'; font-weight: 400;
 	font-size: 20px;
 }
 .b6 {
@@ -1167,7 +1167,7 @@ body, .b1 {
 small,
 .b8 {
 	color: #777;
-	font-family: 'LatoRegular';
+	font-family: 'Lato'; font-weight: 400;
 	font-size: 14px;
 }
 
@@ -1208,7 +1208,7 @@ a:visited div {
 }
 
 strong, b {
-	font-family: 'LatoBold';
+	font-family: 'Lato'; font-weight: 700; 
 	font-size: inherit;
 }
 i, em {
@@ -1233,7 +1233,7 @@ sub {
 }
 
 input, textarea {
-	font-family: 'LatoRegular';
+	font-family: 'Lato'; font-weight: 400;
 }
 	input::-webkit-search-cancel-button {
 		-webkit-appearance: none;
@@ -1590,7 +1590,7 @@ body.nin3DS .icon-instagram { background-position: -35px -130px; }
 	color: #999;
 	display: inline-block;
 	font-size: 16px;
-	font-family: 'LatoBold';
+	font-family: 'Lato'; font-weight: 700; 
 	padding-bottom: 5px;
 }
 	.threeDS .date,
@@ -1616,7 +1616,7 @@ body.nin3DS .icon-instagram { background-position: -35px -130px; }
 	border-radius: 2px;
 	color: #fff;
 	display: inline-block;
-	font-family: 'LatoBold';
+	font-family: 'Lato'; font-weight: 700; 
 	font-size: 20px;
 	line-height: 28px;
 	padding: 10px 0;
@@ -1804,7 +1804,7 @@ body.nin3DS .icon-instagram { background-position: -35px -130px; }
 		border-radius: 50%;
 		content: '+';
 		display: inline-block;
-		font-family: 'LatoRegular';
+		font-family: 'Lato'; font-weight: 400;
 		font-size: 24px;
 		font-style: normal;
 		height: 26px;
@@ -2008,7 +2008,7 @@ input[type="checkbox"] {
 	input[type="checkbox"] + label {
 		clear: both;
 		display: block;
-		font-family: 'LatoBold';
+		font-family: 'Lato'; font-weight: 700; 
 		margin-bottom: 12px;
 		padding-left: 25px;
 		position: relative;
@@ -2057,7 +2057,7 @@ div.pagination-bar {
 	/* General Styles */
 	div.pagination-bar ul {
 		display: inline-block;
-		font-family: 'LatoBold';
+		font-family: 'Lato'; font-weight: 700; 
 		font-size: 14px;
 		line-height: 28px;
 		height: 100%;
@@ -2088,7 +2088,7 @@ div.pagination-bar {
 	}
 		ul.options li {
 			border-left: 1px solid #dadada;
-			font-family: 'LatoRegular';
+			font-family: 'Lato'; font-weight: 400;
 		}
 		ul.options li:nth-child(1),
 		ul.options li:nth-child(2) {
@@ -2096,12 +2096,12 @@ div.pagination-bar {
 		}
 			ul.options li a {
 				display: block;
-				font-family: 'LatoBold';
+				font-family: 'Lato'; font-weight: 700; 
 				padding: 0 10px;
 			}
 			ul.options li.active a {
 				color: #777;
-				font-family: 'LatoRegular';
+				font-family: 'Lato'; font-weight: 400;
 			}
 				ul.options li.active a:hover {
 					color: #777;
@@ -2394,7 +2394,7 @@ div.preview-container:after {
 			}
 				div.preview-info li span {
 					color: #484848;
-					font-family: 'LatoBold';
+					font-family: 'Lato'; font-weight: 700; 
 				}
 		/* Learn More Buttons */
 		div.preview-buttons {}
@@ -2703,7 +2703,7 @@ div.preview-container:after {
 					/* Subhead Links */
 					.accordion-row .column a.b2 {
 						font-size: 22px;
-						font-family: 'LatoRegular';
+						font-family: 'Lato'; font-weight: 400;
 						margin-bottom: 20px;
 					}
 					.accordion-row .column.closed ul {
@@ -2716,7 +2716,7 @@ div.preview-container:after {
 					border-top: 1px solid #dadada;
 					color: #2576bc;
 					display: block;
-					font-family: 'LatoBold';
+					font-family: 'Lato'; font-weight: 700; 
 					font-size: 20px;
 					height: 60px;
 					margin: 0;
