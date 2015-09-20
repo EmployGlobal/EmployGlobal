@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
 /* 	================================================
 
 	12 COLUMN GRID
@@ -1096,31 +1098,36 @@ div.page-content {
 /* --- Desktop Headline Fonts --- */
 h1, .h1 {
 	color: #000;
-	font-family: 'Lato'; font-weight: 300; 
+	font-family: 'Lato';
+	font-weight: 300; 
 	font-size: 66px;
 	margin: 0;
 }
 h2, .h2 {
 	color: #000;
-	font-family: 'Lato'; font-weight: 300; 
+	font-family: 'Lato';
+	font-weight: 300; 
 	font-size: 44px;
 	margin: 0 0 10px;
 }
 h3, .h3 {
 	color: #000;
-	font-family: 'Lato'; font-weight: 300; 
+	font-family: 'Lato';
+	font-weight: 300; 
 	font-size: 30px;
 	margin: 0 0 10px;
 }
 h4, .h4 {
 	color: #484848;
-	font-family: 'Lato'; font-weight: 700; 
+	font-family: 'Lato';
+	font-weight: 700; 
 	font-size: 40px;
 	margin: 0 0 10px;
 }
 h5, .h5 {
 	color: #484848;
-	font-family: 'Lato'; font-weight: 700; 
+	font-family: 'Lato';
+	font-weight: 700; 
 	font-size: 32px;
 	margin: 0 0 10px;
 }
@@ -1128,38 +1135,45 @@ h5, .h5 {
 /* --- Desktop Body Fonts --- */
 body, .b1 {
 	color: #777;
-	font-family: 'Lato'; font-weight: 400;
+	font-family: 'Lato';
+	font-weight: 400;
 	font-size: 16px;
 }
 .b2 {
 	color: #999;
-	font-family: 'Lato'; font-weight: 700; 
+	font-family: 'Lato';
+	font-weight: 700; 
 	font-size: 16px;
 }
 .b3 {
 	color: #777;
-	font-family: 'Lato'; font-weight: 700; 
+	font-family: 'Lato';
+	font-weight: 700; 
 	font-size: 20px;
 	margin: 0 0 10px;
 }
 .b4 {
 	color: #999;
-	font-family: 'Lato'; font-weight: 400;
+	font-family: 'Lato';
+	font-weight: 400;
 	font-size: 14px;
 }
 .b5 {
 	color: #777;
-	font-family: 'Lato'; font-weight: 400;
+	font-family: 'Lato';
+	font-weight: 400;
 	font-size: 20px;
 }
 .b6 {
 	color: #000;
-	font-family: 'Lato'; font-weight: 300; 
+	font-family: 'Lato';
+	font-weight: 300; 
 	font-size: 20px;
 }
 .b7 {
 	color: #484848;
-	font-family: 'Lato'; font-weight: 700; 
+	font-family: 'Lato';
+	font-weight: 700; 
 	font-size: 24px;
 	margin: 0 0 10px;
 }
@@ -1167,7 +1181,8 @@ body, .b1 {
 small,
 .b8 {
 	color: #777;
-	font-family: 'Lato'; font-weight: 400;
+	font-family: 'Lato';
+	font-weight: 400;
 	font-size: 14px;
 }
 
@@ -1804,7 +1819,8 @@ body.nin3DS .icon-instagram { background-position: -35px -130px; }
 		border-radius: 50%;
 		content: '+';
 		display: inline-block;
-		font-family: 'Lato'; font-weight: 400;
+		font-family: 'Lato';
+		font-weight: 400;
 		font-size: 24px;
 		font-style: normal;
 		height: 26px;
